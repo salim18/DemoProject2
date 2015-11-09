@@ -34,3 +34,22 @@ C:\Users\salim.gauzel\Documents\Visual Studio 2013\Projects\jsProject\ViewScript
 C:\Users\salim.gauzel\Documents\Visual Studio 2013\Projects\jsProject\ViewScripts\obj\Debug\ViewScripts.csprojResolveAssemblyReference.cache
 C:\Users\salim.gauzel\Documents\Visual Studio 2013\Projects\jsProject\ViewScripts\obj\Debug\ViewScripts.dll
 C:\Users\salim.gauzel\Documents\Visual Studio 2013\Projects\jsProject\ViewScripts\obj\Debug\ViewScripts.pdb
+C:\Users\salim\Documents\DemoProject2\jsProject\ViewScripts\bin\ViewScripts.dll.config
+C:\Users\salim\Documents\DemoProject2\jsProject\ViewScripts\bin\ViewScripts.dll
+C:\Users\salim\Documents\DemoProject2\jsProject\ViewScripts\bin\ViewScripts.pdb
+C:\Users\salim\Documents\DemoProject2\jsProject\ViewScripts\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\salim\Documents\DemoProject2\jsProject\ViewScripts\bin\System.Web.Helpers.dll
+C:\Users\salim\Documents\DemoProject2\jsProject\ViewScripts\bin\System.Web.Mvc.dll
+C:\Users\salim\Documents\DemoProject2\jsProject\ViewScripts\bin\System.Web.Razor.dll
+C:\Users\salim\Documents\DemoProject2\jsProject\ViewScripts\bin\System.Web.Webpages.Deployment.dll
+C:\Users\salim\Documents\DemoProject2\jsProject\ViewScripts\bin\System.Web.Webpages.dll
+C:\Users\salim\Documents\DemoProject2\jsProject\ViewScripts\bin\System.Web.Webpages.Razor.dll
+C:\Users\salim\Documents\DemoProject2\jsProject\ViewScripts\bin\System.Web.Razor.xml
+C:\Users\salim\Documents\DemoProject2\jsProject\ViewScripts\bin\System.Web.Webpages.xml
+C:\Users\salim\Documents\DemoProject2\jsProject\ViewScripts\bin\System.Web.Webpages.Deployment.xml
+C:\Users\salim\Documents\DemoProject2\jsProject\ViewScripts\bin\System.Web.Webpages.Razor.xml
+C:\Users\salim\Documents\DemoProject2\jsProject\ViewScripts\bin\System.Web.Helpers.xml
+C:\Users\salim\Documents\DemoProject2\jsProject\ViewScripts\bin\System.Web.Mvc.xml
+C:\Users\salim\Documents\DemoProject2\jsProject\ViewScripts\obj\Debug\ViewScripts.csprojResolveAssemblyReference.cache
+C:\Users\salim\Documents\DemoProject2\jsProject\ViewScripts\obj\Debug\ViewScripts.dll
+C:\Users\salim\Documents\DemoProject2\jsProject\ViewScripts\obj\Debug\ViewScripts.pdb
