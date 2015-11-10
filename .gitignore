@@ -1,0 +1,6 @@
+################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/jsProject/Source/ndp.v12.suo
+/jsProject/ViewScripts.v12.suo
